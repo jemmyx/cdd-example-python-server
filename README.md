@@ -21,6 +21,9 @@ source venv/bin/activate
 Install all required packages using the provided `requirements.txt` file:
 ```
 pip install -r requirements.txt
+
+pip install --no-cache-dir --force-reinstall cdd-python==0.5.0a5
+
 ```
 
 ### 3. Run the Server
