@@ -1,5 +1,5 @@
 SCENARIO "Access audit"
-TARGET "http://localhost:8080"
+TARGET "http://localhost:8000"
 WITH_SCOPE KERNEL
 
 STEP "Secure transport verification"

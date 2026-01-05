@@ -1,7 +1,7 @@
-version: 0.5.6
+version: 0.6.1
 project_type: Python
 context: generic
-initialized_at: 2026-01-04T14:23:01.167371Z
-customized_at: null
+initialized_at: 2026-01-05T23:10:22.974852300Z
+customized_at: 2026-01-05T23:12:36.537086Z
 expert_hashes:
-  tests/ratel/security.ratel: 85fda6e0398d18f12dc4b487b143ae3c2db71d2b51bf3c5ab02a33d30f6cb7f5
+  tests/ratel/security.ratel: f49d468cb993776b55f428fa21b26237c227ab7157d5f9fa2c2bdf1c58f7225f
